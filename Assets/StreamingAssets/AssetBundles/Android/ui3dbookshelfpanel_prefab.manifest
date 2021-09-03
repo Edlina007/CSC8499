@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1052160904
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b860d78b40d190c047be55f8a18d47b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c0c9091d8a67d8250fef4c54265c7161
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d51f3a7c41ab0346b49ae50d456bece, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb64de7eb90f2cb4b9f7173b254e7b78, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c6956bf8c4a4064c8aefa490a0e9d3c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/UIPrefab/UI3DBookShelfPanel.prefab
+Dependencies: []

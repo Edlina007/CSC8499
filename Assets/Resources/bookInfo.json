@@ -1,0 +1,8 @@
+{
+  "BookName":"恐龙",
+  "Animals":[
+    {"aniName":"bawanglong","trackAbleType":"Model","infoName":"TYRANNOSAURUSREXS", "infoData":"Tyrannosaurus Rex, which lived during the Maastrichtian (MAA) period at the end of the Cretaceous about 68.5 to 65 million years ago, was one of the last non-avian species of dinosaur before the Cretaceous-Tertiary extinction event. Fossils are found in the United States and Canada in North America, and it is one of the most recently extinct dinosaurs."},
+    {"aniName":"sanjiaolong","trackAbleType":"Video","infoName":"TRICERATOP", "infoData":"Which of the following options does Triceratops belong to?\n\n选项A：Phytophagous  选项B：Carnivorous 选项Omnivorous\n\n正确选项：A\n\n"},
+    {"aniName":"lianglong","trackAbleType":"UIData","infoName":"DIPLODOCUS", "infoData":""}
+  ]
+}

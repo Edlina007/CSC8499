@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 280368643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd9465cdbd39eaf54f20129366307a12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d457490777d1b94074ac88f8a9e137dd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/QFramework/Framework/Toolkits/ResKit/Example/7.LoadSceneExample/Art/BattleScene.unity
+Dependencies: []

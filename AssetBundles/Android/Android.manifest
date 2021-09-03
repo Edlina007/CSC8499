@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2730930820
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: uiscanpanel_prefab
+      Dependencies: {}
+    Info_1:
+      Name: ui3dbookshelfpanel_prefab
+      Dependencies: {}
+    Info_2:
+      Name: uitestpanel_prefab
+      Dependencies: {}
+    Info_3:
+      Name: uistarthomepanel_prefab
+      Dependencies: {}
+    Info_4:
+      Name: sceneres_unity
+      Dependencies: {}
+    Info_5:
+      Name: uimultipanel_prefab
+      Dependencies: {}
+    Info_6:
+      Name: textureexample1_png
+      Dependencies: {}
+    Info_7:
+      Name: battlescene_unity
+      Dependencies: {}
+    Info_8:
+      Name: assetobj_prefab
+      Dependencies: {}
+    Info_9:
+      Name: spriteatlas_spriteatlas
+      Dependencies: {}
+    Info_10:
+      Name: testimage_png
+      Dependencies: {}
+    Info_11:
+      Name: uibawanglongpanel_prefab
+      Dependencies: {}
+    Info_12:
+      Name: uisanjiaolongpanel_prefab
+      Dependencies: {}
+    Info_13:
+      Name: uilianglongpanel_prefab
+      Dependencies: {}
+    Info_14:
+      Name: uianimaldatapanel_prefab
+      Dependencies: {}

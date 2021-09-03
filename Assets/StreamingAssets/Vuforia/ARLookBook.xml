@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="lianglong" size="1.000000 0.561667" />
+    <ImageTarget name="1" size="1.000000 1.000000" />
+    <ImageTarget name="sanjiaolong" size="1.000000 0.607646" />
+    <ImageTarget name="bawanglong" size="1.000000 0.560976" />
+  </Tracking>
+</QCARConfig>
